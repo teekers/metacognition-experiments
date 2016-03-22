@@ -1,0 +1,38 @@
+Ok to leave comments outside of bounded areas. 
+Bounds are found by looking for [Start/End][colon][KidsProsp/KidsRetro/AdultProsp/AdultRetro], but no brackets or spaces
+
+----Start:KidsRetro----
+trials: 3
+quespool:kids
+riskorder:after
+outcomes:1,-1,3,-3
+dorisk: yes
+risktri: blocked
+----End:KidsRetro---
+
+----Start:KidsProsp----
+trials: 30
+quespool:kids
+riskorder:before
+outcomes:1,-1,3,-3
+dorisk: yes
+risktri: blocked
+----End:KidsProsp----
+
+----Start:AdultRetro----
+trials: 50
+quespool:adults
+riskorder:after
+outcomes:1,-1,3,-3
+dorisk: yes
+risktri: blocked
+----End:AdultRetro---
+
+----Start:AdultProsp----
+trials: 50
+quespool:adults
+riskorder:before
+outcomes:1,-1,3,-3
+dorisk: yes
+risktri: blocked
+----End:AdultProsp----

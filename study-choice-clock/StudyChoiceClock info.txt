@@ -1,0 +1,23 @@
+**need data reader for press # of first time pressed***
+
+Study Choice Clock (for Danielle)
+
+Params: Name, Age, Class #, Total time (default: 5 min)
+
+Study:
+- CUES in circle, TARGET appears in center, click target to turn off
+- random positions between subjects
+- COUNTDOWN timer in corner
+
+Data:
+- RAW: each press with time + position
+- SUMMARY: all CUES, total time for each, # presses, position
+
+Other: 
+- compatible with Windows XP, screen res: 800 x 600
+
+
+TO CHANGE: 
+- check layout on Windows
+- check data writing on Windows
+- initiate prepare/writeData on close

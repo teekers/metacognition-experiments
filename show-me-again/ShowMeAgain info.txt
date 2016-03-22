@@ -1,0 +1,35 @@
+——
+From Lisa:
+
+so i wanna run this spacing program... i've made 2 slides with what it might look like...
+
+i have an old spacing program that i'll have to find and send you... but basically it's present word pairs (words and synonyms that go together). and then for each, they make a JOL... but instead of on a slider, it's made on a 4-point scale.... then they decide when they want to study... in the old program it was either "study now" or "study later" so there were only 2 choices.... but now i want it to be 4 choice times.... so basically, there will be 4 study blocks (but all different sizes so not the same length or time). if they say now, the pair is shown again immediately (before going on to the next pair). if they say later in about 2 min, then it goes after the first presentation of all items (say 30 items). if they say in about 5 minutes, then it goes after that, and then you get it? but that' the self-control condition.... in the computer control condition, we choose when they re-study.... depending on the JOL... if they say "won't know" we give it immediately.... etc....
+
+
+____
+
+
+For both kids and adults
+
+(1) Practice just with JOL
+
+(2) Actual Exp: 
+instruction page
+
+---(A)
+word pair (on for 1 sec, disappear)
+JOL (4 options) (disappear) (RT JOL)
+When do you want to study (immediate, x, y, z) (RT JOL)
+
+categorize into study time groups, randomize within group. 2nd time seeing it, just 3 sec on/off. No judgements.
+
+--(B)
+word pair (on for 1 sec, disappear)
+JOL (4 options) (disappear) (RT JOL)
+(same screen comes up from before, switch order to 1:1 with JOL) You will see this again when:  (immediate, x, y, z) (RT JOL)
+
+--(C)
+dishonor their choice, with probability
+
+(3) distractor; final test (can't leave it blank)
+

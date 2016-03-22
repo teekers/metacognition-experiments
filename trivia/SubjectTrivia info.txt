@@ -1,0 +1,6 @@
+Summary: based on AdvancedTrivia, but:
+
+- spacing changed to accommodate longer answers for different subjects
+-"is this your first session today".
+- params for Prospective and Retrospective (no Kids vs. Adults)
+- added sound effects

@@ -1,0 +1,55 @@
+***** Advanced Trivia *******
+
+Summary: multiple choice trivia. 
+Looks for Resources folder for trivia file (short answers only). 
+Param options for Kids/Adults, Prospective/Retrospective.
+
+
+-------------PLAN--------------
+
+data file:
+(1) date
+(2) sub num
+(3) accuracy
+(4) RT
+(5) use risk (Risk, NoRisk)
+(6) risk (high, low, n/a)
+(7) RTrisk
+(8) Prosp/Retro
+(9) chosen answer
+(10) correct answer
+(11,12,13) distractors
+(14) question
+(15) question code
+(16) question pool (kids/adults)
+(17) trial order (FirstBlockRisk, SecondBlockRisk, Random)
+(18) Outcomes
+
+parameter options:
+do risk- yes/no
+if risk: always blocked. Which first (use odd/even from sub number)
+prosp/retro
+demographics screen
+find file (save default location?)
+question pool: K or A
+risk outcomes
+
+summary file:
+by block: mean accuracy/RT for w/ and w/o risk
+
+format:
+--------------
+Trivia Summary 4/20/09, Subject ID: 8.
+
+           Correct/Total   Accuracy    MeanRT     MeanCorrectRT
+NoRisk         ##/##          ##%      #####         #####    
+Retrospective  ##/##          ##%      #####         #####
+--
+Total          ##/##          ##%      #####         #####
+
+Risk Analysis. PbSC = 2.31
+                Trials       |         Mean Risk RT
+           Correct   Wrong   |        Correct     Wrong  
+     Low      ##       ##    | Low      #####       #####
+     High     ##       ##    | High     #####       #####
+--------------
